@@ -1,1 +1,1 @@
-## <p align="left">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monoco&size=25&duration=4000&pause=500&color=3529F7&multiline=true&width=435&height=70&lines=+%F0%9F%91%8B++Hello%2C+I'm+NgocLuong!;Welcome+to+my+Github!+%F0%9F%9A%80)](https://git.io/typing-svg)</p>
+## <p align="left">[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Monoco&size=25&duration=4000&pause=500&color=3529F7&multiline=true&width=435&height=70&lines=+%F0%9F%91%8B++Hello%2C+I'm+Luong!;Welcome+to+my+Github!+%F0%9F%9A%80)](https://git.io/typing-svg)</p>
